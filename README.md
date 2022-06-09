@@ -8,3 +8,9 @@ Now the quick tutorial how to play:
 (players who start the game are chosen randomly)
 1. press the button called "start/restart"
 2. enjoy the game 🙂
+
+
+## used technologies
+* HTML
+* CSS
+* JS
