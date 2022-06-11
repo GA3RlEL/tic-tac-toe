@@ -14,3 +14,7 @@ Now the quick tutorial how to play:
 * HTML
 * CSS
 * JS
+
+## link to check website
+
+https://ga3rlel.github.io/tic-tac-toe/ (This website is not responsive)
